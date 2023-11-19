@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @srz11d
+- 👋 Hi, I’m Sharon
 - 👀 I’m interested in genomics and genetics
 - 🌱 I’m currently learning data science with Python
-- 💞️ I’m looking to collaborate on AI applied to Healthcare 
+- 💞️ I’m looking to collaborate on AI applied to Healthcare projects
 - 📫 How to reach me: please email me at sharonl.ruizlopez@gmail.com
 
 <!---
